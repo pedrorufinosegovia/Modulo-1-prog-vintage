@@ -91,5 +91,4 @@ ficheroCorregido.close()
 ficheroCaracteres.close()
 ficheroO.close()
 
-print(caracteres)
-print(done)
+print("se han creado dos nuevos ficheros")
